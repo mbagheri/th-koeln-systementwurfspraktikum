@@ -1,0 +1,31 @@
+# Bytecode-Dateien
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm-spezifische Dateien
+.idea/
+
+# Tkinter spezifische Dateien (normalerweise keine, aber falls du temporäre Dateien oder ähnliches hast)
+*.log
+*.bak
+
+# Dokumentationsordner
+docs/
+
+# Datenbankdateien
+*.db
+
+# Virtuelle Umgebungen
+venv/
+env/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
+
+# Konfigurationsdateien, die du nicht teilen willst
+*.env
+*.ini
+*.log
